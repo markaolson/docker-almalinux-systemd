@@ -1,4 +1,4 @@
-FROM almalinux:latest
+FROM almalinux:8.5
 
 LABEL maintainer="Mark A Olson"
 
