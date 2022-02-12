@@ -4,7 +4,6 @@ Dockerfile that creates an AlmaLinux image with systemd installed.
 
 The Docker image is intended to be used with Molecule for testing ansible roles.
 
-[![alma-systemd build status](https://img.shields.io/docker/cloud/build/markaolson/alma-systemd)](https://hub.docker.com/repository/docker/markaolson/alma-systemd)
 
 ## Branches
 
